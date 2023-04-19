@@ -1,5 +1,5 @@
 //funcoes matematicas
-
+#include <math.h>
 floor(valor); //arredonda para baixo
 ceil(valor);  //arredonda para cima
 sqrt(valor);  //Calcula raiz quadrada
