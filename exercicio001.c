@@ -1,5 +1,5 @@
 //Criar var idade e apresenta-la na tela
-
+#include <stdio.h>
 int main()
 {
     int idade = 18;
