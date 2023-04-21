@@ -4,11 +4,11 @@ void main()
 {
 
     int idade, nascimento, periodo;
-        printf("Quantos anos voce tem? \n");
-            scanf("%i", &idade);
+    printf("Quantos anos voce tem? \n");
+    scanf("%i", &idade);
     nascimento = 2023-idade;
     periodo = 9000-nascimento;
-        printf("No ano 9000 voce biologicamente estara morto, mas tera %i anos", periodo);
+    printf("No ano 9000 voce biologicamente estara morto, mas tera %i anos", periodo);
 
 
 //anotacoes:
