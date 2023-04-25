@@ -3,7 +3,7 @@
 
 int main(){
     float num1, num2, res;
-    int opera, loop = 1;
+    int opera, loop = 0;
     
 
         do{
