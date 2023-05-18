@@ -21,4 +21,5 @@ int main(){
     } 
 
     printf("Dentre os caracteres digitados existem: %i vogais e %i de outros caracteres!", vogais, outros);
+
 }
